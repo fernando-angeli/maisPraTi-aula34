@@ -1,0 +1,14 @@
+.hello {
+  position: relative;
+  height: 100vh;
+  padding-top: 100px;
+}
+
+.hello h1 {
+  padding: 50px 0;
+  color: rgb(46, 122, 235);
+}
+
+.hello p {
+  color: #00d8ff;
+}
